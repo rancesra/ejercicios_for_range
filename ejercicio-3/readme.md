@@ -1,0 +1,1 @@
+3. simular el lanzamiento de N dados  e imprimir cúantas veces cayo cada cara. Mostrar el resultado con barras de asterisco.
